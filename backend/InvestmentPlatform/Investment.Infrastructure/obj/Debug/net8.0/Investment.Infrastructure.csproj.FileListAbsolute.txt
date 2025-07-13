@@ -1,0 +1,15 @@
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\bin\Debug\net8.0\Investment.Infrastructure.deps.json
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\bin\Debug\net8.0\Investment.Infrastructure.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\bin\Debug\net8.0\Investment.Infrastructure.pdb
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\bin\Debug\net8.0\Investment.Application.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\bin\Debug\net8.0\Investment.Application.pdb
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.csproj.AssemblyReference.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.AssemblyInfoInputs.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.AssemblyInfo.cs
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investme.B9116261.Up2Date
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\refint\Investment.Infrastructure.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\Investment.Infrastructure.pdb
+D:\investment-platform\backend\InvestmentPlatform\Investment.Infrastructure\obj\Debug\net8.0\ref\Investment.Infrastructure.dll

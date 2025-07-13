@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\investment-platform\\backend\\InvestmentPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|solutionrelative:investment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|solutionrelative:investment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|solutionrelative:investment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.application\\services\\investmentcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|solutionrelative:investment.application\\services\\investmentcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.api\\controllers\\investmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD191646-A23A-435A-B4D4-79713C9D38C4}|Investment.Api\\Investment.Api.csproj|solutionrelative:investment.api\\controllers\\investmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.application\\validators\\investmentcalculationrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|solutionrelative:investment.application\\validators\\investmentcalculationrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\propertyinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\propertyinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\sharesinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\sharesinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\reitinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\reitinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\licinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\licinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\annuitiesinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\annuitiesinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\investmentbondscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\investmentbondscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\etfinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\etfinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\managedfundsinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\managedfundsinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\termdepositinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\termdepositinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.infrastructure\\strategies\\cashinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA70D6E-BC8B-4558-8899-351A57343188}|Investment.Infrastructure\\Investment.Infrastructure.csproj|solutionrelative:investment.infrastructure\\strategies\\cashinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.application\\interfaces\\iinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|solutionrelative:investment.application\\interfaces\\iinvestmentcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4691E3C-7ED1-4891-9BEA-B2AB1C7E927F}|Investment.Tests\\Investment.Tests.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.tests\\services\\investmentcalculationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4691E3C-7ED1-4891-9BEA-B2AB1C7E927F}|Investment.Tests\\Investment.Tests.csproj|solutionrelative:investment.tests\\services\\investmentcalculationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4691E3C-7ED1-4891-9BEA-B2AB1C7E927F}|Investment.Tests\\Investment.Tests.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.tests\\services\\investmentcalculationrequestvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4691E3C-7ED1-4891-9BEA-B2AB1C7E927F}|Investment.Tests\\Investment.Tests.csproj|solutionrelative:investment.tests\\services\\investmentcalculationrequestvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|d:\\investment-platform\\backend\\investmentplatform\\investment.application\\dtos\\investmentcalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4034F1C-95E0-4F3A-A02E-65BB3E89A8DC}|Investment.Application\\Investment.Application.csproj|solutionrelative:investment.application\\dtos\\investmentcalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvestmentCalculationService.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Services\\InvestmentCalculationService.cs",
+              "RelativeDocumentMoniker": "Investment.Application\\Services\\InvestmentCalculationService.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Services\\InvestmentCalculationService.cs",
+              "RelativeToolTip": "Investment.Application\\Services\\InvestmentCalculationService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:57:32.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\PropertyInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\PropertyInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\PropertyInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\PropertyInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:14:01.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Investment.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Investment.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T18:51:19.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Investment.Api\\Program.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Program.cs",
+              "RelativeToolTip": "Investment.Api\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:17:07.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Investment.Api\\appsettings.json",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\appsettings.json",
+              "RelativeToolTip": "Investment.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T10:41:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Services\\ExchangeRateService.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Services\\ExchangeRateService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAawE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:57:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvestmentController.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Controllers\\InvestmentController.cs",
+              "RelativeDocumentMoniker": "Investment.Api\\Controllers\\InvestmentController.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Api\\Controllers\\InvestmentController.cs",
+              "RelativeToolTip": "Investment.Api\\Controllers\\InvestmentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:42:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvestmentCalculationRequestValidator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Validators\\InvestmentCalculationRequestValidator.cs",
+              "RelativeDocumentMoniker": "Investment.Application\\Validators\\InvestmentCalculationRequestValidator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Validators\\InvestmentCalculationRequestValidator.cs",
+              "RelativeToolTip": "Investment.Application\\Validators\\InvestmentCalculationRequestValidator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:00:09.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagedFundsInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\ManagedFundsInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\ManagedFundsInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\ManagedFundsInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\ManagedFundsInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:13:40.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SharesInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\SharesInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\SharesInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\SharesInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\SharesInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:14:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ETFInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\ETFInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\ETFInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\ETFInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\ETFInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:12:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "REITInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\REITInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\REITInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\REITInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\REITInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:14:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LICInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\LICInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\LICInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\LICInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\LICInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:13:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnnuitiesInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\AnnuitiesInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\AnnuitiesInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\AnnuitiesInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\AnnuitiesInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:11:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvestmentBondsCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\InvestmentBondsCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\InvestmentBondsCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\InvestmentBondsCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\InvestmentBondsCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:12:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TermDepositInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\TermDepositInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\TermDepositInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\TermDepositInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\TermDepositInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:14:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CashInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\CashInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Infrastructure\\Strategies\\CashInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Infrastructure\\Strategies\\CashInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Infrastructure\\Strategies\\CashInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:12:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IInvestmentCalculator.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Interfaces\\IInvestmentCalculator.cs",
+              "RelativeDocumentMoniker": "Investment.Application\\Interfaces\\IInvestmentCalculator.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\Interfaces\\IInvestmentCalculator.cs",
+              "RelativeToolTip": "Investment.Application\\Interfaces\\IInvestmentCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:05:35.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvestmentCalculationRequest.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\DTOs\\InvestmentCalculationRequest.cs",
+              "RelativeDocumentMoniker": "Investment.Application\\DTOs\\InvestmentCalculationRequest.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Application\\DTOs\\InvestmentCalculationRequest.cs",
+              "RelativeToolTip": "Investment.Application\\DTOs\\InvestmentCalculationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:57:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvestmentCalculationRequestValidatorTests.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Tests\\Services\\InvestmentCalculationRequestValidatorTests.cs",
+              "RelativeDocumentMoniker": "Investment.Tests\\Services\\InvestmentCalculationRequestValidatorTests.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Tests\\Services\\InvestmentCalculationRequestValidatorTests.cs",
+              "RelativeToolTip": "Investment.Tests\\Services\\InvestmentCalculationRequestValidatorTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADgvzYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:33:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvestmentCalculationServiceTest.cs",
+              "DocumentMoniker": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Tests\\Services\\InvestmentCalculationServiceTest.cs",
+              "RelativeDocumentMoniker": "Investment.Tests\\Services\\InvestmentCalculationServiceTest.cs",
+              "ToolTip": "D:\\investment-platform\\backend\\InvestmentPlatform\\Investment.Tests\\Services\\InvestmentCalculationServiceTest.cs",
+              "RelativeToolTip": "Investment.Tests\\Services\\InvestmentCalculationServiceTest.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0AAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:57:32.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

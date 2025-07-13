@@ -1,0 +1,26 @@
+.investment-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.investment-row select,
+.investment-row input {
+  padding: 6px;
+  margin-right: 10px;
+  width: 150px;
+}
+
+.investment-row input {
+  width: 100px;
+}
+
+.btn-remove {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}

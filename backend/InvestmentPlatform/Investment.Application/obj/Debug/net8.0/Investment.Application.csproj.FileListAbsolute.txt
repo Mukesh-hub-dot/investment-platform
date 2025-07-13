@@ -1,0 +1,12 @@
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\bin\Debug\net8.0\Investment.Application.deps.json
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\bin\Debug\net8.0\Investment.Application.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\bin\Debug\net8.0\Investment.Application.pdb
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.csproj.AssemblyReference.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.AssemblyInfoInputs.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.AssemblyInfo.cs
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.csproj.CoreCompileInputs.cache
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\refint\Investment.Application.dll
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\Investment.Application.pdb
+D:\investment-platform\backend\InvestmentPlatform\Investment.Application\obj\Debug\net8.0\ref\Investment.Application.dll
